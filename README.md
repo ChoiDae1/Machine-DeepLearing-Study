@@ -17,7 +17,7 @@ By studying a book named _**'혼자 공부하는 머신러닝+딥러닝'**_, I o
 ### Ch5.Tree Algorithms
 - DecisionTree [code link](https://github.com/ChoiDae1/Machine-DeepLearing_Study/blob/main/DecisionTree.ipynb)
 - Cross validate and Grid Search [code link](https://github.com/ChoiDae1/Machine-DeepLearing_Study/blob/main/Cross%20validate%20and%20Grid%20Search.ipynb)
-- ensemble [code link](https://github.com/ChoiDae1/Machine-DeepLearing_Study/blob/main/ensemble.ipynb)
+- Ensemble [code link](https://github.com/ChoiDae1/Machine-DeepLearing_Study/blob/main/Ensemble.ipynb)
 ### Ch6.Unsupervised Learning
 - Clustering Algorithms [code link](https://github.com/ChoiDae1/Machine-DeepLearing_Study/blob/main/Clustering%20Algorithm.ipynb)
 - K-Mean [code link](https://github.com/ChoiDae1/Machine-DeepLearing_Study/blob/main/K-Mean.ipynb)
